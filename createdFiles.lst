@@ -1,0 +1,6 @@
+com\bookstore\bookstoreapi\config\SwaggerConfig.class
+com\bookstore\bookstoreapi\controller\BookController.class
+com\bookstore\bookstoreapi\service\BookService.class
+com\bookstore\bookstoreapi\repository\BookRepository.class
+com\bookstore\bookstoreapi\model\Book.class
+com\bookstore\bookstoreapi\controller\HelloController.class
